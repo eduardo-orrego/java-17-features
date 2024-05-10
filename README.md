@@ -2,6 +2,7 @@
 
 ## New Features:
 JEP 356: Enhanced Pseudo-Random Number Generators
+JEP 409: Sealed Classes
 
 ## New Preview Features:
 JEP 406: Pattern Matching for switch (Preview)
